@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ESGApp</string>
+    <string name="input_login_email">Email</string>
+    <string name="input_login_password">Senha</string>
+    <string name="btn_login_submit">Entrar</string>
+    <string name="login_message_new_user">Entre em contato com a empresa para criar o seu cadastro</string>
+</resources>
